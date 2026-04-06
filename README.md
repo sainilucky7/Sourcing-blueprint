@@ -6,7 +6,6 @@
 5. Patent Inventor Searches: USPTO, Google Patents
 6. Professional Associations & Technical Communities: IEEE Solid-State Circuits Society, ACM SIGDA, VLSI technical forums, LinkedIn hardware groups
 7. LinkedIn Boolean Search / Advanced Filters
-
 # Use a combination of title, skills, and company filters:
 8. Kaggle & ML Accelerator Programs (for AI-SoC roles): Engineers working on AI chips, accelerators, or hardware-aware ML frameworks, Look at competition winners or contributors in embedded AI
 9. Internal Employee Referrals & Alumni Networks
